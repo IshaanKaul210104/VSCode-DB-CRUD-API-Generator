@@ -1,4 +1,4 @@
-# db-crud-api-generator README
+# VSCode-DB-CRUD-API-Generator
 
 This is the README for your extension "db-crud-api-generator". After writing up a brief description, we recommend including the following sections.
 
